@@ -65,7 +65,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Node.js-009688?style=flat&logo=nodedotjs&logoColor=4479A1"/>&nbsp;&nbsp;
-
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Notion-F37626?style=flat&logo=notion&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>&nbsp;&nbsp;
