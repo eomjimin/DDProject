@@ -58,16 +58,16 @@
 ------------------------------
 <img width="100%" alt="image" src="https://github.com/getreadytoUG/DDproject/assets/127275992/fec7e358-98a0-4c5d-8372-8f5ad7b8d30a">
 
-
-<p>
+<br>
+<center><p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=react&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=nodedotjs&logoColor=4479A1"/>&nbsp;&nbsp;
-</p>
+</p></center>
 
-<p>
+<center><p>
   <img src="https://img.shields.io/badge/Colab-F37626?style=flat&logo=notion&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>&nbsp;&nbsp;
@@ -75,4 +75,4 @@
   <img src="https://img.shields.io/badge/AWSS3-569A31?style=flat&logo=expo&logoColor=white"/>&nbsp;&nbsp;
 
   
-</p>
+</p></center>
