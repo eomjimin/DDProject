@@ -57,7 +57,7 @@
 
 ------------------------------
 <img width="100%" alt="image" src="https://github.com/getreadytoUG/DDproject/assets/127275992/fec7e358-98a0-4c5d-8372-8f5ad7b8d30a">
-
+<hr>
 <p>
    
   <img src="https://img.shields.io/badge/React-EE4C2C?style=flat&logo=react&logoColor=white"/>&nbsp;&nbsp;
