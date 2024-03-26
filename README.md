@@ -10,6 +10,9 @@
 ## 👨‍💻 My Role in Process
 ###### 기획, 프론트 구현, NodeJS 서버 구현, PPT제작, 리액트 네이티브 앱 구현, 팀장
 
+### 발표 PPT
+[이동의 꿈 PPT](https://github.com/eomjimin/DDProject/blob/main/Dream%20Developer.pdf)
+
 <img width="100%" alt="image" src="https://github.com/getreadytoUG/DDproject/assets/127275992/66820f9a-fd19-47bb-923b-097996e46636">
 
 <hr>
